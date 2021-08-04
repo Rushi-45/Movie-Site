@@ -1,3 +1,6 @@
+# Name of Creator
+This Project is created by Rushi Chudasama as a task given by StarLine Techno
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
